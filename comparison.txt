@@ -1,0 +1,176 @@
+Average distance of vectors belonging to factor from vector representing the factor:
+
+R, 4 factors, PCA, oblimin - Autoflagging set to p < 0.05 and a majority of common variance is required
+f1	f2	f3	f4
+12,75	13,24	12,82	13,99
+
+R, 4 factors, PCA, varimax - Autoflagging set to p < 0.05 and a majority of common variance is required
+f1	f2	f3	f4
+12,70	13,24	12,81	14,47
+
+
+Kade, 4 factors, FCA, varimax -  Autoflagging set to p < 0.05 and a majority of common variance is required (less people is loaded in factors)
+
+f1	f2	f3	f4
+10,83	12,75	11,88	14,08
+
+
+Kade, 4 factors, FCA, varimax - Autoflagging set to p < 0.05 and a majority of common variance was not required (more people is loaded in factors)
+11,10	13,2	12,08	14,4
+
+
+Kade, 5 factors, FCA, varimax - Autoflagging set to p < 0.05 and a majority of common variance was not required
+f1	f2	f3	f4	f5
+11,10	13,46	11,72	11,08	9,54
+
+
+Kade, 6 factors, FCA, varimax - Autoflagging set to p < 0.05 and a majority of common variance was not required
+f1	f2	f3	f4	f5	f6
+12,0	13,0	11,8	11,2	11,1	11,2
+
+
+
+
+
+
+
+
+R, 4 factors, PCA, varimax:
+                                    f1    f2    f3   f4
+Average reliability coefficient   0.80  0.80  0.80 0.80
+Number of loading Q-sorts        12.00 11.00  7.00 4.00
+Eigenvalues                       6.29  5.79  4.74 3.30
+Percentage of explained variance 14.97 13.78 11.29 7.85
+Composite reliability             0.98  0.98  0.97 0.94
+Standard error of factor scores   0.14  0.15  0.19 0.24
+
+$sd_dif
+          f1        f2        f3        f4
+f1 0.2020305 0.2064713 0.2342881 0.2814812
+f2 0.2064713 0.2108185 0.2381281 0.2846854
+f3 0.2342881 0.2381281 0.2626129 0.3054608
+f4 0.2814812 0.2846854 0.3054608 0.3429972
+
+R, 5 factors, PCA, varimax:
+                                    f1    f2    f3   f4   f5
+Average reliability coefficient   0.80  0.80  0.80 0.80 0.80
+Number of loading Q-sorts         9.00  8.00  6.00 5.00 6.00
+Eigenvalues                       6.09  4.85  4.21 3.84 3.29
+Percentage of explained variance 14.50 11.54 10.02 9.14 7.84
+Composite reliability             0.97  0.97  0.96 0.95 0.96
+Standard error of factor scores   0.16  0.17  0.20 0.22 0.20
+
+$sd_dif
+          f1        f2        f3        f4        f5
+f1 0.2324953 0.2394370 0.2588958 0.2732143 0.2588958
+f2 0.2394370 0.2461830 0.2651472 0.2791453 0.2651472
+f3 0.2588958 0.2651472 0.2828427 0.2960051 0.2828427
+f4 0.2732143 0.2791453 0.2960051 0.3086067 0.2960051
+f5 0.2588958 0.2651472 0.2828427 0.2960051 0.2828427
+
+
+
+R, 4 factors, PCA, oblimin:
+                                    f1    f2   f3   f4
+Average reliability coefficient   0.80  0.80 0.80 0.80
+Number of loading Q-sorts        13.00 10.00 7.00 4.00
+Eigenvalues                       5.54  4.92 3.83 3.42
+Percentage of explained variance 13.18 11.73 9.11 8.14
+Composite reliability             0.98  0.98 0.97 0.94
+Standard error of factor scores   0.14  0.16 0.19 0.24
+
+$sd_dif
+          f1        f2        f3        f4
+f1 0.1942572 0.2079860 0.2309777 0.2787319
+f2 0.2079860 0.2208631 0.2426376 0.2884680
+f3 0.2309777 0.2426376 0.2626129 0.3054608
+f4 0.2787319 0.2884680 0.3054608 0.3429972
+
+R, 5 factors, PCA, oblimin:
+                                    f1    f2    f3   f4   f5
+Average reliability coefficient   0.80  0.80  0.80 0.80 0.80
+Number of loading Q-sorts        10.00 10.00  8.00 5.00 3.00
+Eigenvalues                       4.50  4.50  4.36 3.41 2.78
+Percentage of explained variance 10.72 10.72 10.38 8.12 6.62
+Composite reliability             0.98  0.98  0.97 0.95 0.92
+Standard error of factor scores   0.16  0.16  0.17 0.22 0.28
+
+$sd_dif
+          f1        f2        f3        f4        f5
+f1 0.2208631 0.2208631 0.2338659 0.2683455 0.3182975
+f2 0.2208631 0.2208631 0.2338659 0.2683455 0.3182975
+f3 0.2338659 0.2338659 0.2461830 0.2791453 0.3274540
+f4 0.2683455 0.2683455 0.2791453 0.3086067 0.3529053
+f5 0.3182975 0.3182975 0.3274540 0.3529053 0.3922323
+
+Kade, 4 factors, centroid factors, varimax:			
+
+Factor Characteristics				
+				
+				f1	f2	f3	f4
+No. of Defining Variables	6	12	16	8
+Avg. Rel. Coef.			0,8	0,8	0,8	0,8
+Composite Reliability		0,96	0,98	0,985	0,97
+S.E. of Factor Z-scores		0,2	0,141	0,122	0,173
+
+
+
+
+
+Standard Errors for Differences in Factor Z-scores				
+				
+	f1	f2	f3	f4
+f1 	0,283	0,245	0,234	0,264
+f2	0,245	0,199	0,186	0,223
+f3	0,234	0,186	0,173	0,212
+f4 	0,264	0,223	0,212	0,245
+
+Kade, 5 factors, centroid factors, varimax:
+
+Factor Characteristics					
+					
+				f1	f2	f3	f4	f5
+No. of Defining Variables	17	12	4	4	5
+Avg. Rel. Coef.			0,8	0,8	0,8	0,8	0,8
+Composite Reliability		0,986	0,98	0,941	0,941	0,952
+S.E. of Factor Z-scores		0,118	0,141	0,243	0,243	0,219
+
+Standard Errors for Differences in Factor Z-scores					
+					
+	f1	f2	f3	f4	f5
+f1	0,167	0,184	0,27	0,27	0,249
+f2	0,184	0,199	0,281	0,281	0,26
+f3	0,27	0,281	0,344	0,344	0,327
+f4	0,27	0,281	0,344	0,344	0,327
+f5	0,249	0,26	0,327	0,327	0,31
+
+Kade, 7 factors, PCA, varimax:
+Factor Characteristics							
+							
+				f1	f2	f3	f4	f5	f6	f7
+No. of Defining Variables	6	3	4	6	2	2	2
+Avg. Rel. Coef.			0,8	0,8	0,8	0,8	0,8	0,8	0,8
+Composite Reliability		0,96	0,923	0,941	0,96	0,889	0,889	0,889
+S.E. of Factor Z-scores		0,2	0,277	0,243	0,2	0,333	0,333	0,333
+
+
+Standard Errors for Differences in Factor Z-scores							
+							
+	f1	f2	f3	f4	f5	f6	f7
+factor1	0,283	0,342	0,315	0,283	0,388	0,388	0,388
+factor2	0,342	0,392	0,368	0,342	0,433	0,433	0,433
+factor3	0,315	0,368	0,344	0,315	0,412	0,412	0,412
+factor4	0,283	0,342	0,315	0,283	0,388	0,388	0,388
+factor5	0,388	0,433	0,412	0,388	0,471	0,471	0,471
+factor6	0,388	0,433	0,412	0,388	0,471	0,471	0,471
+factor7	0,388	0,433	0,412	0,388	0,471	0,471	0,471
+
+
+
+
+
+
+
+
+
+

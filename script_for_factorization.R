@@ -22,8 +22,14 @@ cor_data=cor(data,method="pearson")
 
 parallel<-fa.parallel(cor_data, fm='minres', fa='fa')
 
-q_data<-qmethod(data,nfactors=5, rotation='varimax', cor.method="pearson")
-summary(q_data)
-write.csv(q_data$flagged,file ='C:\\belfast_ulster\\factor_analysis\\data_q_method_varimax_rotation_11factors.csv')
+q_data<-qmethod(data,nfactors=4, rotation='oblimin')
+#summary(q_data)
+#write.csv(q_data$flagged,file ='C:\\belfast_ulster\\factor_analysis\\R_oblimin_5factors.csv')
+
+
+#data(lipset)
+#results <- qmethod(lipset[[1]], nfactors = 3, rotation = "oblimin")
+
+
 
 
